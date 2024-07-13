@@ -1,11 +1,15 @@
 # Unemployment Analysis in India
-# Car Price Prediction model
-# sales prediction
+# Car Price Prediction Model
+# Sales Prediction
 
 A data science project aimed at analyzing and visualizing the unemployment trends in India using various data analysis and machine learning techniques.
+A data science project aimed at analyzing and visualizing the car price prediction using various data analysis and machine learning techniques.
+A data science project aimed at analyzing and visualizing the sales prediction using various data analysis and machine learning techniques.
 
 ## Description
 This project analyzes unemployment data in India to identify trends, patterns, and insights. The analysis covers different regions, states, and demographic factors to understand the underlying causes of unemployment and its impact on the economy.
+and also predicts the car prices india based on various factors.
+along with prediction of sales.
 
 ## Table of Contents
 - [Description](#description)
